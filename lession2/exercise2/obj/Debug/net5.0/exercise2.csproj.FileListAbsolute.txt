@@ -1,0 +1,16 @@
+C:\Users\MQ\source\repos\lession2\exercise2\bin\Debug\net5.0\exercise2.exe
+C:\Users\MQ\source\repos\lession2\exercise2\bin\Debug\net5.0\exercise2.deps.json
+C:\Users\MQ\source\repos\lession2\exercise2\bin\Debug\net5.0\exercise2.runtimeconfig.json
+C:\Users\MQ\source\repos\lession2\exercise2\bin\Debug\net5.0\exercise2.runtimeconfig.dev.json
+C:\Users\MQ\source\repos\lession2\exercise2\bin\Debug\net5.0\exercise2.dll
+C:\Users\MQ\source\repos\lession2\exercise2\bin\Debug\net5.0\ref\exercise2.dll
+C:\Users\MQ\source\repos\lession2\exercise2\bin\Debug\net5.0\exercise2.pdb
+C:\Users\MQ\source\repos\lession2\exercise2\obj\Debug\net5.0\exercise2.csproj.AssemblyReference.cache
+C:\Users\MQ\source\repos\lession2\exercise2\obj\Debug\net5.0\exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MQ\source\repos\lession2\exercise2\obj\Debug\net5.0\exercise2.AssemblyInfoInputs.cache
+C:\Users\MQ\source\repos\lession2\exercise2\obj\Debug\net5.0\exercise2.AssemblyInfo.cs
+C:\Users\MQ\source\repos\lession2\exercise2\obj\Debug\net5.0\exercise2.csproj.CoreCompileInputs.cache
+C:\Users\MQ\source\repos\lession2\exercise2\obj\Debug\net5.0\exercise2.dll
+C:\Users\MQ\source\repos\lession2\exercise2\obj\Debug\net5.0\ref\exercise2.dll
+C:\Users\MQ\source\repos\lession2\exercise2\obj\Debug\net5.0\exercise2.pdb
+C:\Users\MQ\source\repos\lession2\exercise2\obj\Debug\net5.0\exercise2.genruntimeconfig.cache

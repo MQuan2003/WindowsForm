@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\MQ\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\MQ\\.nuget\\packages"
+    ]
+  }
+}
