@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Exercise_2</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="tree.jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="tree.jpeg" />
+  </ItemGroup>
+
+</Project>
