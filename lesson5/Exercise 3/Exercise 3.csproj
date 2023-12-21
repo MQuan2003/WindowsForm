@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Exercise_3</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="balloon.jpeg" />
+    <None Remove="hotels.jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="balloon.jpeg" />
+    <Resource Include="hotels.jpeg" />
+  </ItemGroup>
+
+</Project>
