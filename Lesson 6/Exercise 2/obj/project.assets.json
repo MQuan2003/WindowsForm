@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MQ\\source\\repos\\Lesson 6\\Exercise 2\\Exercise 2.csproj",
+      "projectUniqueName": "C:\\Users\\MQ\\source\\repos\\Practice\\Lesson 6\\Exercise 2\\Exercise 2.csproj",
       "projectName": "Exercise 2",
-      "projectPath": "C:\\Users\\MQ\\source\\repos\\Lesson 6\\Exercise 2\\Exercise 2.csproj",
+      "projectPath": "C:\\Users\\MQ\\source\\repos\\Practice\\Lesson 6\\Exercise 2\\Exercise 2.csproj",
       "packagesPath": "C:\\Users\\MQ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MQ\\source\\repos\\Lesson 6\\Exercise 2\\obj\\",
+      "outputPath": "C:\\Users\\MQ\\source\\repos\\Practice\\Lesson 6\\Exercise 2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Thư mục mới (2)\\NuGetPackages"
