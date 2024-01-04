@@ -1,0 +1,22 @@
+C:\Users\MQ\source\repos\Practice\lesson7\Exercise 2\obj\Debug\net5.0-windows\Exercise 2.csproj.AssemblyReference.cache
+C:\Users\MQ\source\repos\Practice\lesson7\Exercise 2\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\MQ\source\repos\Practice\lesson7\Exercise 2\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\MQ\source\repos\Practice\lesson7\Exercise 2\obj\Debug\net5.0-windows\Exercise 2_MarkupCompile.cache
+C:\Users\MQ\source\repos\Practice\lesson7\Exercise 2\obj\Debug\net5.0-windows\Exercise 2_MarkupCompile.lref
+C:\Users\MQ\source\repos\Practice\lesson7\Exercise 2\bin\Debug\net5.0-windows\Exercise 2.exe
+C:\Users\MQ\source\repos\Practice\lesson7\Exercise 2\bin\Debug\net5.0-windows\Exercise 2.deps.json
+C:\Users\MQ\source\repos\Practice\lesson7\Exercise 2\bin\Debug\net5.0-windows\Exercise 2.runtimeconfig.json
+C:\Users\MQ\source\repos\Practice\lesson7\Exercise 2\bin\Debug\net5.0-windows\Exercise 2.runtimeconfig.dev.json
+C:\Users\MQ\source\repos\Practice\lesson7\Exercise 2\bin\Debug\net5.0-windows\Exercise 2.dll
+C:\Users\MQ\source\repos\Practice\lesson7\Exercise 2\bin\Debug\net5.0-windows\ref\Exercise 2.dll
+C:\Users\MQ\source\repos\Practice\lesson7\Exercise 2\bin\Debug\net5.0-windows\Exercise 2.pdb
+C:\Users\MQ\source\repos\Practice\lesson7\Exercise 2\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\MQ\source\repos\Practice\lesson7\Exercise 2\obj\Debug\net5.0-windows\Exercise 2.g.resources
+C:\Users\MQ\source\repos\Practice\lesson7\Exercise 2\obj\Debug\net5.0-windows\Exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MQ\source\repos\Practice\lesson7\Exercise 2\obj\Debug\net5.0-windows\Exercise 2.AssemblyInfoInputs.cache
+C:\Users\MQ\source\repos\Practice\lesson7\Exercise 2\obj\Debug\net5.0-windows\Exercise 2.AssemblyInfo.cs
+C:\Users\MQ\source\repos\Practice\lesson7\Exercise 2\obj\Debug\net5.0-windows\Exercise 2.csproj.CoreCompileInputs.cache
+C:\Users\MQ\source\repos\Practice\lesson7\Exercise 2\obj\Debug\net5.0-windows\Exercise 2.dll
+C:\Users\MQ\source\repos\Practice\lesson7\Exercise 2\obj\Debug\net5.0-windows\ref\Exercise 2.dll
+C:\Users\MQ\source\repos\Practice\lesson7\Exercise 2\obj\Debug\net5.0-windows\Exercise 2.pdb
+C:\Users\MQ\source\repos\Practice\lesson7\Exercise 2\obj\Debug\net5.0-windows\Exercise 2.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\MQ\source\repos\Practice\lesson9\Exercise 1\bin\Debug\Exercise 1.exe.config
+C:\Users\MQ\source\repos\Practice\lesson9\Exercise 1\bin\Debug\Exercise 1.exe
+C:\Users\MQ\source\repos\Practice\lesson9\Exercise 1\bin\Debug\Exercise 1.pdb
+C:\Users\MQ\source\repos\Practice\lesson9\Exercise 1\bin\Debug\EntityFramework.dll
+C:\Users\MQ\source\repos\Practice\lesson9\Exercise 1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MQ\source\repos\Practice\lesson9\Exercise 1\bin\Debug\EntityFramework.xml
+C:\Users\MQ\source\repos\Practice\lesson9\Exercise 1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MQ\source\repos\Practice\lesson9\Exercise 1\obj\Debug\Exercise 1.csproj.AssemblyReference.cache
+C:\Users\MQ\source\repos\Practice\lesson9\Exercise 1\obj\Debug\Exercise_1.Form1.resources
+C:\Users\MQ\source\repos\Practice\lesson9\Exercise 1\obj\Debug\Exercise_1.Properties.Resources.resources
+C:\Users\MQ\source\repos\Practice\lesson9\Exercise 1\obj\Debug\Exercise 1.csproj.GenerateResource.cache
+C:\Users\MQ\source\repos\Practice\lesson9\Exercise 1\obj\Debug\Exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\MQ\source\repos\Practice\lesson9\Exercise 1\obj\Debug\Exercise 1.csproj.CopyComplete
+C:\Users\MQ\source\repos\Practice\lesson9\Exercise 1\obj\Debug\Exercise 1.exe
+C:\Users\MQ\source\repos\Practice\lesson9\Exercise 1\obj\Debug\Exercise 1.pdb
